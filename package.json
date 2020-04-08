@@ -1,0 +1,29 @@
+{
+	"name": "phaser3-authoritative-server",
+	"version": "0.0.3",
+	"description": "Run Phaser 3 on server side ",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"phaser-framework",
+		"server",
+		"server-side",
+		"physics",
+		"authoritative",
+		"phaser 3",
+		"multiplayer",
+		"phaser-3"
+	],
+	"author": "alterfan",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alterfan/phaser3-authoritative-server.git"
+	},
+	"bugs": {
+		"url": "https://github.com/alterfan/phaser3-authoritative-server/issues"
+	},
+	"homepage": "https://github.com/alterfan/phaser3-authoritative-server#readme"
+}
