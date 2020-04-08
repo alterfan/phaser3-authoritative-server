@@ -2,7 +2,7 @@
 
 [npm package](https://www.npmjs.com/package/phaser3-authoritative-server)
 
-> Allows you to miscalculate the physics of Phaser 3 on the server side
+> Позволяет вести просчет физики Phaser 3 на стороне сервера
 
 ### Usage
 

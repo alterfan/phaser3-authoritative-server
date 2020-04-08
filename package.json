@@ -1,6 +1,6 @@
 {
 	"name": "phaser3-authoritative-server",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "Run Phaser 3 on server side ",
 	"main": "src/index.js",
 	"scripts": {
@@ -16,6 +16,9 @@
 		"multiplayer",
 		"phaser-3"
 	],
+	"dependencies": {
+		"phaser": "^3.22.0"
+	},
 	"author": "alterfan",
 	"license": "MIT",
 	"repository": {
